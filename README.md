@@ -1,9 +1,21 @@
-# Sanity Clean Content Studio
+# Sanity Task
+This project is a sample application that demonstrates how to use Sanity, a flexible and powerful content management system. Sanity provides an efficient framework for creating, managing, and delivering content for web and mobile applications.
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+## Objective
+The goal of this project is to provide a foundation for integrating Sanity into web applications and help developers understand the concepts and basic implementation.
 
-Now you can do the following things:
+## Usage
+### Dependencies
+Install dependencies and modules.
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+```bash
+$ npm install
+```
+
+### Scripts
+After installing the dependencies the application is ready to run.
+
+```bash
+# Start
+$ npm start
+```
